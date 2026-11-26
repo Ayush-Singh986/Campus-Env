@@ -85,7 +85,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 ### Images
 
 <p align="center">
-  <img src="image1.png" alt="Narration">
+  <img src="images/image1.png" alt="Narration">
   <br>
   <i>Narration</i>
 </p>
@@ -93,7 +93,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image2.png" alt="Moving to classroom">
+  <img src="images/image2.png" alt="Moving to classroom">
   <br>
   <i>Moving to classroom</i>
 </p>
@@ -101,7 +101,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image3.png" alt="Next objective">
+  <img src="images/image3.png" alt="Next objective">
   <br>
   <i>Next objective</i>
 </p>
@@ -109,7 +109,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image4.png" alt="Got out safely">
+  <img src="images/image4.png" alt="Got out safely">
   <br>
   <i>Got out safely</i>
 </p>
@@ -117,7 +117,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image5.png" alt="Report">
+  <img src="images/image5.png" alt="Report">
   <br>
   <i>Report</i>
 </p>
@@ -125,7 +125,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image6.png" alt="Report">
+  <img src="images/image6.png" alt="Report">
   <br>
   <i>Report</i>
 </p>
@@ -133,7 +133,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image7.png" alt="Evacuee view">
+  <img src="images/image7.png" alt="Evacuee view">
   <br>
   <i>Evacuee view</i>
 </p>
@@ -141,7 +141,7 @@ Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby
 <br><br>
 
 <p align="center">
-  <img src="image8.png" alt="Warden view">
+  <img src="images/image8.png" alt="Warden view">
   <br>
   <i>Warden view</i>
 </p>
